@@ -1,0 +1,2 @@
+Id: 4, Make: BMW, Model: Sedan, Year: 1990, Color: white, Price: 50000.0, Reg. Number: KA07W3143
+Id: 11, Make: BMW, Model: HatchBack, Year: 2010, Color: silver, Price: 60000.0, Reg. Number: KA07W3150
