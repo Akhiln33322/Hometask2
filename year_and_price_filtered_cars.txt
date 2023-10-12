@@ -1,0 +1,2 @@
+Id: 12, Make: Audi, Model: Sedan, Year: 2015, Color: red, Price: 55000.0, Reg. Number: KA07W3151
+Id: 15, Make: TATA, Model: Sedan, Year: 2015, Color: red, Price: 30000.0, Reg. Number: KA07W3154
