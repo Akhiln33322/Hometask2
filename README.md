@@ -8,7 +8,7 @@ Name: Akhil Narayanaswamy
 
 Development Environment: Eclipse IDE and JDK21
 
-Description: A class car is created, and 15 pieces of information are given as input in the form of a list. Those cars are listed in a file based on the given conditions at the location C:\\Users\\Dell\\Desktop\\Akhil\\Java.
+Description: A class car is created, and 15 pieces of information are given as input in the form of a list. Those cars are listed in files based on the below conditions at the location C:\\Users\\Dell\\Desktop\\Akhil\\Java.
 
 a) A list of cars of a given brand; the brand considered is BMW.
 
