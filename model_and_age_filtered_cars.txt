@@ -1,0 +1,4 @@
+Id: 1, Make: Toyota, Model: SUV, Year: 1998, Color: Blue, Price: 20000.0, Reg. Number: KA07W3140
+Id: 3, Make: Ford, Model: SUV, Year: 2016, Color: blue, Price: 80000.0, Reg. Number: KA07W3142
+Id: 5, Make: Benz, Model: SUV, Year: 2005, Color: white, Price: 60000.0, Reg. Number: KA07W3144
+Id: 10, Make: Toyato, Model: SUV, Year: 2010, Color: white, Price: 30000.0, Reg. Number: KA07W3149
